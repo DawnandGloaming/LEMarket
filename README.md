@@ -44,9 +44,6 @@
 >项目前端展示使用Redis来进行缓存商品的详细信息以及评价，缓解数据库负载，项目运行需要在spring配置文件中配置好redis的连接信息。<br/>
 >支付模块采用调用支付宝接口进行支付，需要在com.phonemarket.util.alipayconfig文件中配置应用id以及公钥私钥等配置信息，才能够正确调用支付模块，可以自行去支付宝开发平台申请开发者账户应用进行配置即可。<br/>
 
-### 数据库设计预览
-
-![Image text](https://github.com/DawnandGloaming/Image-Storage/blob/master/sql.png)
 
 ### 前台预览
 ![Image text](https://github.com/DawnandGloaming/Image-Storage/blob/master/qian1.png)
